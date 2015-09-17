@@ -1,2 +1,6 @@
 # hello-world
-10 minute exercise to practise using git-hub
+=============
+
+Hello world!
+
+Just practising using git-hub so that I am prepared for my new coding project.
